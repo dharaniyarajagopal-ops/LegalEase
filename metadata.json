@@ -1,0 +1,7 @@
+{
+  "name": "LeglEase - Plain-English Legal & Contract Intelligence",
+  "description": "Demystify complex legal contracts, detect hidden risks, translate legalese into plain English, and generate negotiation-ready agreements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
